@@ -1,0 +1,45 @@
+<configuration scan="true" scanPeriod="30 seconds" debug="false">
+    <property name="log.path" value="D:/logs/java-design-patter/app.log" />
+
+    <property name="encoder.pattern" value="%d{HH:mm:ss} %-5level %logger - %msg%n" />
+    <!-- Depper debug with class name and line number -->
+    <!-- <property name="encoder.pattern" value="%d{HH:mm:ss} %-5level [%thread] [%class{}:%line] %msg%n" 
+        /> -->
+
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- <filter class="ch.qos.logback.classic.filter.ThresholdFilter"> -->
+        <!-- <level>INFO</level> -->
+        <!-- </filter> -->
+        <encoder>
+            <pattern>${encoder.pattern}</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="file" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${log.path}</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${log.path}.%d{yyyy-MM-dd}.%i.log.zip</fileNamePattern>
+
+            <timeBasedFileNamingAndTriggeringPolicy
+                class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <!-- or whenever the file size reaches 50MB -->
+                <maxFileSize>50MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+
+            <!-- keep 30 days' worth of history -->
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${encoder.pattern}</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="org" level="warn" />
+    <logger name="com" level="warn" />
+
+    <logger name="com.mquan86" level="info" />
+
+    <root level="warn">
+        <appender-ref ref="stdout" />
+    </root>
+</configuration>
