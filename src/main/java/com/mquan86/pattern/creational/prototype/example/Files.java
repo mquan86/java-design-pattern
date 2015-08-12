@@ -7,7 +7,7 @@ import java.util.List;
  * @author Minh Quan Pham (mquan86@gmail.com)
  *
  */
-public class Files implements Cloneable {
+public class Files extends Prototype {
     private List<String> filePaths;
 
     public Files(List<String> filePaths) {
@@ -15,7 +15,7 @@ public class Files implements Cloneable {
     }
 
     @Override
-    protected Object clone() throws CloneNotSupportedException {
+    public Object clone() {
         List<String> clonedFilePaths = new ArrayList<String>();
         clonedFilePaths.addAll(filePaths);
         return new Files(clonedFilePaths);
