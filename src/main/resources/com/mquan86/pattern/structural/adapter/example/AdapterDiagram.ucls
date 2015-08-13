@@ -27,7 +27,7 @@
     project="java-design-pattern" 
     file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/adapter/example/CsvFile.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="570" y="394"/>    
+    <position height="-1" width="-1" x="570" y="388"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
