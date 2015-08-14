@@ -7,6 +7,6 @@ package com.mquan86.pattern.creational.prototype;
 public class ConcretePrototype2 extends Prototype {
     @Override
     public Prototype clone() {
-        return this.clone();
+        return new ConcretePrototype2();
     }
 }
