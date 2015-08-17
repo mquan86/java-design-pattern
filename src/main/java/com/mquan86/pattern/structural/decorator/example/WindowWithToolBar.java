@@ -16,5 +16,5 @@ public class WindowWithToolBar extends WindowDecorator {
         drawToolBar();
     }
 
-    public void drawToolBar() {}
+    private void drawToolBar() {}
 }

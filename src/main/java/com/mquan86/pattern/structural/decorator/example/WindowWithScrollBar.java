@@ -16,5 +16,5 @@ public class WindowWithScrollBar extends WindowDecorator {
         drawScrollBar();
     }
 
-    public void drawScrollBar() {}
+    private void drawScrollBar() {}
 }
