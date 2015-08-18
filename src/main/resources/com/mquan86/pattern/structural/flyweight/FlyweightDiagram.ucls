@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
   realizations="true" associations="true" dependencies="true" nesting-relationships="false">  
-  <class id="1" language="java" name="com.mquan86.pattern.structural.flyweight.FlyWeightFactory" 
+  <class id="1" language="java" name="com.mquan86.pattern.structural.flyweight.FlyweightFactory" 
     project="java-design-pattern" 
-    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/FlyWeightFactory.java" 
+    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/FlyweightFactory.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="675" y="111"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -12,9 +12,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="com.mquan86.pattern.structural.flyweight.ConcreteFlyWeight" 
+  <class id="2" language="java" name="com.mquan86.pattern.structural.flyweight.ConcreteFlyweight" 
     project="java-design-pattern" 
-    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/ConcreteFlyWeight.java" 
+    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/ConcreteFlyweight.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="675" y="331"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -23,9 +23,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="3" language="java" name="com.mquan86.pattern.structural.flyweight.FlyWeight" 
+  <interface id="3" language="java" name="com.mquan86.pattern.structural.flyweight.Flyweight" 
     project="java-design-pattern" 
-    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/FlyWeight.java" binary="false" 
+    file="/java-design-pattern/src/main/java/com/mquan86/pattern/structural/flyweight/Flyweight.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="421" y="111"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
