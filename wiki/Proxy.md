@@ -8,4 +8,4 @@ Your application need to be audit on delete document action, but you have to lim
 ![](../src/main/resources/com/mquan86/pattern/structural/proxy/example/ProxyDiagram.png)
 
 # Note
-There is a better built in implementation of this pattern in JDK at: [java.lang.reflect.Proxy](http://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Proxy.html)
+There is a better built-in implementation of this pattern in JDK at: [java.lang.reflect.Proxy](http://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Proxy.html)
