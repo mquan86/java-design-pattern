@@ -10,3 +10,5 @@ A document repository application could notify related users and admins about do
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/observer/example/ObserverDiagram.png)
 
+# Note
+Java provide a convenient built-in Observer pattern with [java.util.Observer](http://docs.oracle.com/javase/8/docs/api/java/util/Observer.html) and [java.util.Observable](http://docs.oracle.com/javase/8/docs/api/java/util/Observable.html)
