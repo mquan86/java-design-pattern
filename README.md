@@ -19,7 +19,7 @@ Java Design Pattern
     * [Observer](./wiki/Observer.md)
     * [State](./wiki/State.md)
     * [Strategy](./wiki/Strategy.md)
-    * [Template](./wiki/Template.md)
+    * [Template](./wiki/Template-Method.md)
     * [Visitor](./wiki/Visitor.md)
     * [Chain Of Responsibility](./wiki/Chain.md)
     * [Command](./wiki/Command.md)
