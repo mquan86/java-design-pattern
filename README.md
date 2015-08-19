@@ -21,7 +21,7 @@ Java Design Pattern
     * [Strategy](./wiki/Strategy.md)
     * [Template](./wiki/Template-Method.md)
     * [Visitor](./wiki/Visitor.md)
-    * [Chain Of Responsibility](./wiki/Chain.md)
+    * [Chain Of Responsibility](./wiki/Chain-Of-Responsibility.md)
     * [Command](./wiki/Command.md)
     * [Interpreter](./wiki/Interpreter.md)
     * [Iterator](./wiki/Iterator.md)
