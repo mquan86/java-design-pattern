@@ -1,5 +1,5 @@
-# java-design-pattern
-Java Design Pattern
+# Java Design Pattern
+A self-learning java design pattern with short introduce, diagram, practical example and source code.
 
 * Creational
     * [Singleton](./wiki/Singleton.md)
@@ -27,3 +27,8 @@ Java Design Pattern
     * [Iterator](./wiki/Iterator.md)
     * [Mediator](./wiki/Mediator.md)
     * [Memento](./wiki/Memento.md)
+
+## Support or Contact
+Bug & issues can be post in [issues tracker](https://github.com/mquan86/java-design-pattern/issues)
+
+Email: mquan86 [ at ] gmail[ dot ]com
