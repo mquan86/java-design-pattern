@@ -13,7 +13,7 @@ There a three common and effective implementation for this pattern in Java:
 
 ![](../src/main/resources/com/mquan86/pattern/creational/singleton/SingletonDiagram.png)
 
-#Example
+## Example
 An application must have only one Configuration instance at anytime.
 
 ![](../src/main/resources/com/mquan86/pattern/creational/singleton/example/SingletonDiagram.png)
