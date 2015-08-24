@@ -1,4 +1,6 @@
-# Pattern
+# Singleton
+
+## Patteren
 Ensure that a class only have one instance at anytime.
 
 Recognized by a method always returns the same object instance every time.
@@ -10,6 +12,7 @@ There a three common and effective implementation for this pattern in Java:
 1. **Enum**: This is a trick way use Enum type to ensure one instance and simple implementation. This style is introduce in "_Effective Java_" book
 
 ![](../src/main/resources/com/mquan86/pattern/creational/singleton/SingletonDiagram.png)
+
 #Example
 An application must have only one Configuration instance at anytime.
 
