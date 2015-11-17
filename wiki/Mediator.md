@@ -1,7 +1,7 @@
 # Mediator
 
 ## Patteren
-To encapsulate the set of object's interacts. Every object will not communicate directly, all communicate through mediator. 
+To encapsulate the set of object's interactions. Every object will not communicate directly, all communicate through mediator. 
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/mediator/MediatorDiagram.png)
 
