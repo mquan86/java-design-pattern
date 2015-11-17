@@ -1,6 +1,6 @@
 # Flyweight
 
-## Patteren
+## Pattern
 Sharing similar object for minimizing memory usage or for effectily.
 
 Recognized by the method returns a cached object.

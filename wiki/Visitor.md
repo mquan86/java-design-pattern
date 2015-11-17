@@ -1,6 +1,6 @@
 # Visitor
 
-## Patteren
+## Pattern
 To separate algorithm from object structure, result is new operations can be added without modifying object structure. 
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/visitor/VisitorDiagram.png)

@@ -1,6 +1,6 @@
 # Singleton
 
-## Patteren
+## Pattern
 Ensure that a class only have one instance at anytime.
 
 Recognized by a method always returns the same object instance every time.

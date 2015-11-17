@@ -1,6 +1,6 @@
 # Facade
 
-## Patteren
+## Pattern
 Hide the complexity of system by providing simple unified interface system for a set of interfaces.
 
 Recognized by the function internally uses different interface types.

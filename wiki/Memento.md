@@ -1,6 +1,6 @@
 # Memento
 
-## Patteren
+## Pattern
 Provide ability to restore an object to it's previous state.
 
 Recognized by the behavior method which change the whole the state of whole instance.

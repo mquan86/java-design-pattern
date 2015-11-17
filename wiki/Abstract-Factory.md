@@ -1,6 +1,6 @@
 # Abstract Factory
 
-## Patteren
+## Pattern
 Add an abstract layer for Factory pattern. Simply is factory of factories.
 
 Recognized by creational method returns a factory.

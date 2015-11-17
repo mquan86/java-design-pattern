@@ -1,6 +1,6 @@
 # Proxy
 
-## Patteren
+## Pattern
 Provide a surrogate or holder of another object to control access to it.
 
 ![](../src/main/resources/com/mquan86/pattern/structural/proxy/ProxyDiagram.png)

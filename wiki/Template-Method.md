@@ -1,6 +1,6 @@
 # Template Method
 
-## Patteren
+## Pattern
 Define a skeleton on abstraction,  then some steps will be defined or overrided in subclass without changing it's structure.
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/template/TemplateDiagram.png)

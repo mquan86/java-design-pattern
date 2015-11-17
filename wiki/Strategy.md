@@ -1,6 +1,6 @@
 # Strategy
 
-## Patteren
+## Pattern
 Define set of encapsulate algorithm which is interchangeable to be independent from client use.
 
 Recognized by behavior method execute method of a strategy type passed to it.

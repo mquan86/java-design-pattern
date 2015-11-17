@@ -1,6 +1,6 @@
 # Bridge
 
-## Patteren
+## Pattern
 Decouple an abstraction from its implementation so that the two can vary independently. 
 
 Recognized by an abstraction structure object between implementations.

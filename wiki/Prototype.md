@@ -1,6 +1,6 @@
 # Prototype
 
-## Patteren
+## Pattern
 Use to create new object copy from itself.
 
 Recognized by the creational method returns a copy instance of itself. 

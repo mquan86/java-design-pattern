@@ -1,6 +1,6 @@
 # Command
 
-## Patteren
+## Pattern
 Ecapsulate all information needed to execute an action or trigger event at a latter time.
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/command/CommandDiagram.png)

@@ -1,6 +1,6 @@
 # Iterator
 
-## Patteren
+## Pattern
 Provide access through the elements of a container. 
 
 ![](../src/main/resources/com/mquan86/pattern/behavior/iterator/IteratorDiagram.png)

@@ -1,6 +1,6 @@
 # Observer
 
-## Patteren
+## Pattern
 A one to many relationship between objects to notify them about state change in one object.
 Usually used in event/listener handling.
 

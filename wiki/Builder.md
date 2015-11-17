@@ -1,6 +1,6 @@
 # Builder
 
-## Patteren
+## Pattern
 Separate the construction of complex object. The object will be build as parts, then final will return the completion initialized object.
 
 Recognized by creational method returns an instance object.

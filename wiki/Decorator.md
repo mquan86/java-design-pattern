@@ -1,6 +1,6 @@
 # Decorator
 
-## Patteren
+## Pattern
 Add additional features to existing object dynamically.
 
 Recognized by method takes the same abstract type which adds additional feature.

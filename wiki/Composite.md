@@ -1,6 +1,6 @@
 # Composite
 
-## Patteren
+## Pattern
 Compose objects into tree structure.
 
 Recognized by method takes an object of the same abstract type add into tree structure.

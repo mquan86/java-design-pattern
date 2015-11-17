@@ -1,6 +1,6 @@
 # Factory Method
 
-## Patteren
+## Pattern
 Create a object type base on the parameter type given.
 
 Recognized by creational method return the different object implementation of abstract type based on given parameter.

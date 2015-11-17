@@ -1,6 +1,6 @@
 # Adapter
 
-## Patteren
+## Pattern
 Reuse an existing class that is not compatible with current system interface.
 
 Recognized by a method takes an incompatible object but return a compatible instance.

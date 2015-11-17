@@ -1,6 +1,6 @@
 # State
 
-## Patteren
+## Pattern
 To change the behavior of object if it's internal state is changed.
 
 Recognized by behavior method which is changes behavior depending on instance's state.
