@@ -1,5 +1,5 @@
 # Java Design Pattern
-A self-learning java design pattern with short introduce, diagram, practical example and source code.
+A self-learning java design pattern with short introduce, diagram, practical example and source code (include testing with JUnit and Mockito).
 
 * Creational
     * [Singleton](./wiki/Singleton.md) (One instance at anytime)
